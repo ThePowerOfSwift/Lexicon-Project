@@ -1,0 +1,251 @@
+{
+  "id": "dog",
+  "metadata": {
+    "operation": "retrieve",
+    "provider": "Oxford University Press",
+    "schema": "RetrieveEntry"
+  },
+  "results": [
+    {
+      "id": "dog",
+      "language": "en-gb",
+      "lexicalEntries": [
+        {
+          "entries": [
+            {
+              "senses": [
+                {
+                  "definitions": [
+                    "a domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractable claws, and a barking, howling, or whining voice."
+                  ],
+                  "id": "m_en_gbus0287810.007",
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "a wild animal of the dog family."
+                      ],
+                      "id": "m_en_gbus0287810.012"
+                    },
+                    {
+                      "definitions": [
+                        "the male of an animal of the dog family, or of some other mammals such as the otter"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a dog fox"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.013"
+                    },
+                    {
+                      "definitions": [
+                        "greyhound racing"
+                      ],
+                      "examples": [
+                        {
+                          "text": "a night at the dogs"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.014"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "an unpleasant, contemptible, or wicked man"
+                  ],
+                  "examples": [
+                    {
+                      "text": "he was interrupted by cries of ‘dirty dog!’"
+                    },
+                    {
+                      "text": "come out, Michael, you dog!"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.018",
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "used to refer to a person of a specified kind in a tone of playful reproof, commiseration, or congratulation"
+                      ],
+                      "examples": [
+                        {
+                          "text": "your historian is a dull dog"
+                        },
+                        {
+                          "text": "you lucky dog!"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.019"
+                    },
+                    {
+                      "definitions": [
+                        "used to refer to someone who is abject or miserable, especially because they have been treated harshly"
+                      ],
+                      "examples": [
+                        {
+                          "text": "I make him work like a dog"
+                        },
+                        {
+                          "text": "Rab was treated like a dog"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.020"
+                    },
+                    {
+                      "definitions": [
+                        "an unattractive woman."
+                      ],
+                      "id": "m_en_gbus0287810.021"
+                    },
+                    {
+                      "definitions": [
+                        "an informer or traitor"
+                      ],
+                      "examples": [
+                        {
+                          "text": "one day she's going to turn dog on you"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.022"
+                    },
+                    {
+                      "definitions": [
+                        "a thing of poor quality"
+                      ],
+                      "examples": [
+                        {
+                          "text": "\n              a dog of a film"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.023"
+                    },
+                    {
+                      "definitions": [
+                        "a horse that is slow or difficult to handle."
+                      ],
+                      "id": "m_en_gbus0287810.024"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "used in names of dogfishes, e.g. sandy dog, spur-dog."
+                  ],
+                  "id": "m_en_gbus0287810.026"
+                },
+                {
+                  "definitions": [
+                    "a mechanical device for gripping."
+                  ],
+                  "id": "m_en_gbus0287810.030"
+                },
+                {
+                  "definitions": [
+                    "feet."
+                  ],
+                  "id": "m_en_gbus0287810.032"
+                },
+                {
+                  "definitions": [
+                    "barriers used to keep horses off a particular part of the track."
+                  ],
+                  "id": "m_en_gbus0287810.034"
+                }
+              ]
+            }
+          ],
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "noun",
+            "text": "Noun"
+          },
+          "pronunciations": [
+            {
+              "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dog_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "dɒɡ"
+            }
+          ],
+          "text": "dog"
+        },
+        {
+          "entries": [
+            {
+              "senses": [
+                {
+                  "definitions": [
+                    "follow (someone) closely and persistently"
+                  ],
+                  "examples": [
+                    {
+                      "text": "photographers seemed to dog her every step"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.041",
+                  "subsenses": [
+                    {
+                      "definitions": [
+                        "(of a problem) cause continual trouble for"
+                      ],
+                      "examples": [
+                        {
+                          "text": "the twenty-nine-year-old has constantly been dogged by controversy"
+                        }
+                      ],
+                      "id": "m_en_gbus0287810.047"
+                    }
+                  ]
+                },
+                {
+                  "definitions": [
+                    "act lazily; fail to try one's hardest"
+                  ],
+                  "examples": [
+                    {
+                      "text": "Eric had a reputation for dogging it a little"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.049"
+                },
+                {
+                  "definitions": [
+                    "grip (something) with a mechanical device"
+                  ],
+                  "examples": [
+                    {
+                      "text": "she has dogged the door shut"
+                    }
+                  ],
+                  "id": "m_en_gbus0287810.051"
+                }
+              ]
+            }
+          ],
+          "language": "en-gb",
+          "lexicalCategory": {
+            "id": "verb",
+            "text": "Verb"
+          },
+          "pronunciations": [
+            {
+              "audioFile": "https://audio.oxforddictionaries.com/en/mp3/dog_gb_2.mp3",
+              "dialects": [
+                "British English"
+              ],
+              "phoneticNotation": "IPA",
+              "phoneticSpelling": "dɒɡ"
+            }
+          ],
+          "text": "dog"
+        }
+      ],
+      "type": "headword",
+      "word": "dog"
+    }
+  ],
+  "word": "dog"
+}
