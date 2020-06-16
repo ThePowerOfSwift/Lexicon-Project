@@ -15,6 +15,7 @@ NVActivityIndicatorView
 > Brief overview:
 
 - MVC
+- UIKit
 - Mainly Storyboard UI
 - Core Data
 - Complex JSON Parsing
